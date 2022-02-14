@@ -11,4 +11,3 @@ Order the pizza
 9. start learning code
     9a. Finished git commits
     9b. Start branching and merging
-    
