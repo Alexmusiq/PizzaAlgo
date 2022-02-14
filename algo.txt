@@ -9,3 +9,6 @@ Order the pizza
 7. Eat Pizza 
 8. Clean area
 9. start learning code
+    9a. Finished git commits
+    9b. Start branching and merging
+    
