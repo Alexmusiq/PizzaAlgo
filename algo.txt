@@ -7,7 +7,8 @@ Order the pizza
 5. Wait for delivery
 6. Greet delivery driver
 7. Eat Pizza 
-8. Clean area
+8. Clean area   
 9. start learning code
     9a. Finished git commits
     9b. Start branching and merging
+    9c. Study branching  
